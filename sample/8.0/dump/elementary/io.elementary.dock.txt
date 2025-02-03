@@ -1,0 +1,12 @@
+io.elementary.dock autohide-mode 'overlapping-focus-window'
+io.elementary.dock icon-size 48
+io.elementary.dock launchers ['gala-multitaskingview.desktop', 'io.elementary.files.desktop', 'org.gnome.Epiphany.desktop', 'io.elementary.mail.desktop', 'io.elementary.tasks.desktop', 'io.elementary.calendar.desktop', 'io.elementary.music.desktop', 'io.elementary.videos.desktop', 'io.elementary.photos.desktop', 'io.elementary.settings.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']
+io.elementary.dock.keybindings launch-dock-1 ['<Super>1']
+io.elementary.dock.keybindings launch-dock-2 ['<Super>2']
+io.elementary.dock.keybindings launch-dock-3 ['<Super>3']
+io.elementary.dock.keybindings launch-dock-4 ['<Super>4']
+io.elementary.dock.keybindings launch-dock-5 ['<Super>5']
+io.elementary.dock.keybindings launch-dock-6 ['<Super>6']
+io.elementary.dock.keybindings launch-dock-7 ['<Super>7']
+io.elementary.dock.keybindings launch-dock-8 ['<Super>8']
+io.elementary.dock.keybindings launch-dock-9 ['<Super>9']

@@ -1,0 +1,16 @@
+io.elementary.settings-daemon.datetime show-weeks false
+io.elementary.settings-daemon.datetime week-start-day-name 'sunday'
+io.elementary.settings-daemon.housekeeping cleanup-downloads-folder false
+io.elementary.settings-daemon.housekeeping cleanup-screenshots-folder false
+io.elementary.settings-daemon.housekeeping cleanup-temp-folder false
+io.elementary.settings-daemon.housekeeping cleanup-trash-folder false
+io.elementary.settings-daemon.housekeeping old-files-age 30
+io.elementary.settings-daemon.power profile-on-good-battery 'balanced'
+io.elementary.settings-daemon.power profile-plugged-in 'balanced'
+io.elementary.settings-daemon.prefers-color-scheme last-coordinates (91.0, 181.0)
+io.elementary.settings-daemon.prefers-color-scheme prefer-dark-schedule 'disabled'
+io.elementary.settings-daemon.prefers-color-scheme prefer-dark-schedule-from 20.0
+io.elementary.settings-daemon.prefers-color-scheme prefer-dark-schedule-to 6.0
+io.elementary.settings-daemon.system-update automatic-updates false
+io.elementary.settings-daemon.system-update last-refresh-time int64 1738572384
+io.elementary.settings-daemon.system-update refresh-interval int64 86400

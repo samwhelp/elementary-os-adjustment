@@ -1,0 +1,16 @@
+io.elementary.desktop.wingpanel scroll-to-switch-workspaces false
+io.elementary.desktop.wingpanel use-transparency true
+io.elementary.desktop.wingpanel.applications-menu use-category false
+io.elementary.desktop.wingpanel.bluetooth bluetooth-enabled true
+io.elementary.desktop.wingpanel.datetime clock-format '12h'
+io.elementary.desktop.wingpanel.datetime clock-show-date true
+io.elementary.desktop.wingpanel.datetime clock-show-seconds false
+io.elementary.desktop.wingpanel.datetime clock-show-weekday true
+io.elementary.desktop.wingpanel.datetime show-weeks false
+io.elementary.desktop.wingpanel.power show-percentage false
+io.elementary.desktop.wingpanel.sound last-title-info @as []
+io.elementary.desktop.wingpanel.sound max-volume 100.0
+io.elementary.desktop.wingpanel.sound preferred-devices {'alsa_card.pci-0000_00_1b.0:analog-output-speaker': 1738572364, 'alsa_card.pci-0000_00_1b.0:analog-input-internal-mic': 1738572364}
+io.elementary.desktop.wingpanel.sound volume-down ['XF86AudioLowerVolume', '<Ctrl>XF86AudioLowerVolume']
+io.elementary.desktop.wingpanel.sound volume-mute ['XF86AudioMute']
+io.elementary.desktop.wingpanel.sound volume-up ['XF86AudioRaiseVolume', '<Ctrl>XF86AudioRaiseVolume']

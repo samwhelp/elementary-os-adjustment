@@ -1,0 +1,298 @@
+io.elementary.appcenter.settings automatic-updates true
+io.elementary.appcenter.settings developer-mode false
+io.elementary.appcenter.settings last-refresh-time int64 0
+io.elementary.appcenter.settings paid-apps @as []
+io.elementary.appcenter.settings window-height 660
+io.elementary.appcenter.settings window-maximized false
+io.elementary.appcenter.settings window-width 1024
+io.elementary.calendar.savedstate hpaned-position 650
+io.elementary.calendar.savedstate month-page ''
+io.elementary.calendar.savedstate selected-day ''
+io.elementary.calendar.savedstate show-weeks true
+io.elementary.calendar.savedstate window-maximized false
+io.elementary.calendar.savedstate window-size (1024, 750)
+io.elementary.calendar.settings plugins-disabled @as []
+io.elementary.code.folder-manager opened-folders @as []
+io.elementary.code.plugins.spell language 'en_US'
+io.elementary.code.saved-state hp1-size 125
+io.elementary.code.saved-state last-opened-path ''
+io.elementary.code.saved-state outline-visible false
+io.elementary.code.saved-state outline-width 160
+io.elementary.code.saved-state sidebar-visible true
+io.elementary.code.saved-state terminal-visible false
+io.elementary.code.saved-state vp-size 125
+io.elementary.code.saved-state window-size (850, 550)
+io.elementary.code.saved-state window-state 'Normal'
+io.elementary.code.services expiry-time 'N'
+io.elementary.code.services paste-format-code 'None'
+io.elementary.code.services set-private false
+io.elementary.code.settings auto-indent true
+io.elementary.code.settings autosave true
+io.elementary.code.settings case-sensitive-search 'mixed'
+io.elementary.code.settings cyclic-search false
+io.elementary.code.settings default-build-directory ''
+io.elementary.code.settings draw-spaces 'For Selection'
+io.elementary.code.settings focused-document ''
+io.elementary.code.settings follow-system-style true
+io.elementary.code.settings font 'Droid Sans Mono 10'
+io.elementary.code.settings highlight-matching-brackets true
+io.elementary.code.settings indent-width 4
+io.elementary.code.settings line-wrap true
+io.elementary.code.settings opened-files @a(si) []
+io.elementary.code.settings plugins-enabled ['brackets-completion', 'detect-indent', 'editorconfig']
+io.elementary.code.settings prefer-dark-style false
+io.elementary.code.settings regex-search false
+io.elementary.code.settings right-margin-position 80
+io.elementary.code.settings show-mini-map false
+io.elementary.code.settings show-right-margin false
+io.elementary.code.settings smart-cut-copy true
+io.elementary.code.settings spaces-instead-of-tabs true
+io.elementary.code.settings strip-trailing-on-save false
+io.elementary.code.settings style-scheme 'elementary-light'
+io.elementary.code.settings use-system-font true
+io.elementary.code.settings wholeword-search false
+io.elementary.desktop.background dim-wallpaper-in-dark-style false
+io.elementary.desktop.bluetooth confirm-accept-files true
+io.elementary.desktop.bluetooth sharing true
+io.elementary.desktop.quick-settings show-a11y true
+io.elementary.desktop.screensaver lock-on-suspend true
+io.elementary.desktop.wingpanel scroll-to-switch-workspaces false
+io.elementary.desktop.wingpanel use-transparency true
+io.elementary.desktop.wingpanel.applications-menu use-category false
+io.elementary.desktop.wingpanel.bluetooth bluetooth-enabled true
+io.elementary.desktop.wingpanel.datetime clock-format '12h'
+io.elementary.desktop.wingpanel.datetime clock-show-date true
+io.elementary.desktop.wingpanel.datetime clock-show-seconds false
+io.elementary.desktop.wingpanel.datetime clock-show-weekday true
+io.elementary.desktop.wingpanel.datetime show-weeks false
+io.elementary.desktop.wingpanel.power show-percentage false
+io.elementary.desktop.wingpanel.sound last-title-info @as []
+io.elementary.desktop.wingpanel.sound max-volume 100.0
+io.elementary.desktop.wingpanel.sound preferred-devices {'alsa_card.pci-0000_00_1b.0:analog-output-speaker': 1738572364, 'alsa_card.pci-0000_00_1b.0:analog-input-internal-mic': 1738572364}
+io.elementary.desktop.wingpanel.sound volume-down ['XF86AudioLowerVolume', '<Ctrl>XF86AudioLowerVolume']
+io.elementary.desktop.wingpanel.sound volume-mute ['XF86AudioMute']
+io.elementary.desktop.wingpanel.sound volume-up ['XF86AudioRaiseVolume', '<Ctrl>XF86AudioRaiseVolume']
+io.elementary.desktop.wm.accessibility colorblindness-correction-filter 'none'
+io.elementary.desktop.wm.accessibility colorblindness-correction-filter-strength 1.0
+io.elementary.desktop.wm.accessibility enable-monochrome-filter false
+io.elementary.desktop.wm.accessibility monochrome-filter-strength 1.0
+io.elementary.desktop.wm.animations enable-animations true
+io.elementary.desktop.wm.behavior enable-hotcorners-in-fullscreen false
+io.elementary.desktop.wm.behavior hotcorner-bottomleft 'none'
+io.elementary.desktop.wm.behavior hotcorner-bottomright 'none'
+io.elementary.desktop.wm.behavior hotcorner-custom-command ''
+io.elementary.desktop.wm.behavior hotcorner-topleft 'none'
+io.elementary.desktop.wm.behavior hotcorner-topright 'none'
+io.elementary.desktop.wm.behavior move-fullscreened-workspace true
+io.elementary.desktop.wm.behavior move-maximized-workspace false
+io.elementary.desktop.wm.behavior overlay-action 'io.elementary.wingpanel --toggle-indicator=app-launcher'
+io.elementary.desktop.wm.behavior panel-main-menu-action 'io.elementary.wingpanel --toggle-indicator=app-launcher'
+io.elementary.desktop.wm.behavior toggle-recording-action ''
+io.elementary.desktop.wm.gestures four-finger-pinch 'none'
+io.elementary.desktop.wm.gestures four-finger-swipe-horizontal 'none'
+io.elementary.desktop.wm.gestures four-finger-swipe-up 'none'
+io.elementary.desktop.wm.gestures three-finger-pinch 'none'
+io.elementary.desktop.wm.gestures three-finger-swipe-horizontal 'switch-to-workspace'
+io.elementary.desktop.wm.gestures three-finger-swipe-up 'multitasking-view'
+io.elementary.desktop.wm.keybindings area-screenshot ['<Shift>Print']
+io.elementary.desktop.wm.keybindings area-screenshot-clip ['<Control><Shift>Print']
+io.elementary.desktop.wm.keybindings cycle-workspaces-next ['<Super>Tab']
+io.elementary.desktop.wm.keybindings cycle-workspaces-previous ['<Super><Shift>Tab']
+io.elementary.desktop.wm.keybindings expose-all-windows ['<Super>a']
+io.elementary.desktop.wm.keybindings move-to-workspace-first ['<Super><Shift>Home']
+io.elementary.desktop.wm.keybindings move-to-workspace-last ['<Super><Shift>End', '<Super><Shift>0']
+io.elementary.desktop.wm.keybindings panel-main-menu ['<Alt>F2']
+io.elementary.desktop.wm.keybindings pip ['<Super>f']
+io.elementary.desktop.wm.keybindings screenshot ['Print']
+io.elementary.desktop.wm.keybindings screenshot-clip ['<Control>Print']
+io.elementary.desktop.wm.keybindings switch-input-source ['<Super>Space']
+io.elementary.desktop.wm.keybindings switch-input-source-backward ['<Super><Shift>Space']
+io.elementary.desktop.wm.keybindings switch-to-workspace-first ['<Super>Home']
+io.elementary.desktop.wm.keybindings switch-to-workspace-last ['<Super>End', '<Super>0']
+io.elementary.desktop.wm.keybindings window-screenshot ['<Alt>Print']
+io.elementary.desktop.wm.keybindings window-screenshot-clip ['<Control><Alt>Print']
+io.elementary.desktop.wm.keybindings zoom-in ['<Super>plus', '<Super>KP_Add']
+io.elementary.desktop.wm.keybindings zoom-out ['<Super>minus', '<Super>KP_Subtract']
+io.elementary.dock autohide-mode 'overlapping-focus-window'
+io.elementary.dock icon-size 48
+io.elementary.dock launchers ['gala-multitaskingview.desktop', 'io.elementary.files.desktop', 'org.gnome.Epiphany.desktop', 'io.elementary.mail.desktop', 'io.elementary.tasks.desktop', 'io.elementary.calendar.desktop', 'io.elementary.music.desktop', 'io.elementary.videos.desktop', 'io.elementary.photos.desktop', 'io.elementary.settings.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']
+io.elementary.dock.keybindings launch-dock-1 ['<Super>1']
+io.elementary.dock.keybindings launch-dock-2 ['<Super>2']
+io.elementary.dock.keybindings launch-dock-3 ['<Super>3']
+io.elementary.dock.keybindings launch-dock-4 ['<Super>4']
+io.elementary.dock.keybindings launch-dock-5 ['<Super>5']
+io.elementary.dock.keybindings launch-dock-6 ['<Super>6']
+io.elementary.dock.keybindings launch-dock-7 ['<Super>7']
+io.elementary.dock.keybindings launch-dock-8 ['<Super>8']
+io.elementary.dock.keybindings launch-dock-9 ['<Super>9']
+io.elementary.feedback window-height 600
+io.elementary.feedback window-maximized false
+io.elementary.feedback window-width 550
+io.elementary.files.column-view default-zoom-level 'small'
+io.elementary.files.column-view maximum-zoom-level 'normal'
+io.elementary.files.column-view minimum-zoom-level 'smallest'
+io.elementary.files.column-view preferred-column-width 180
+io.elementary.files.column-view zoom-level 'small'
+io.elementary.files.file-chooser last-folder-uri ''
+io.elementary.files.file-chooser window-size (800, 450)
+io.elementary.files.icon-view default-zoom-level 'large'
+io.elementary.files.icon-view maximum-zoom-level 'largest'
+io.elementary.files.icon-view minimum-zoom-level 'normal'
+io.elementary.files.icon-view zoom-level 'large'
+io.elementary.files.list-view default-zoom-level 'small'
+io.elementary.files.list-view maximum-zoom-level 'large'
+io.elementary.files.list-view minimum-zoom-level 'smallest'
+io.elementary.files.list-view zoom-level 'small'
+io.elementary.files.preferences active-tab-position 2
+io.elementary.files.preferences date-format 'informal'
+io.elementary.files.preferences default-viewmode 'icon'
+io.elementary.files.preferences minimum-sidebar-width 96
+io.elementary.files.preferences restore-tabs true
+io.elementary.files.preferences show-hiddenfiles false
+io.elementary.files.preferences show-local-thumbnails true
+io.elementary.files.preferences show-remote-thumbnails true
+io.elementary.files.preferences show-sidebar true
+io.elementary.files.preferences sidebar-cat-devices-expander true
+io.elementary.files.preferences sidebar-cat-network-expander true
+io.elementary.files.preferences sidebar-cat-personal-expander true
+io.elementary.files.preferences sidebar-width 191
+io.elementary.files.preferences singleclick-select false
+io.elementary.files.preferences tab-info-list []
+io.elementary.files.preferences window-size (1000, 680)
+io.elementary.files.preferences window-state 'normal'
+io.elementary.greeter-compositor.keybindings zoom-in ['<Super>plus', '<Super>KP_Add']
+io.elementary.greeter-compositor.keybindings zoom-out ['<Super>minus', '<Super>KP_Subtract']
+io.elementary.mail always-load-remote-images true
+io.elementary.mail paned-end-position 400
+io.elementary.mail paned-start-position 190
+io.elementary.mail remote-images-whitelist @as []
+io.elementary.mail selected-folder ('', '')
+io.elementary.mail window-maximized false
+io.elementary.mail window-size (1024, 750)
+io.elementary.notifications do-not-disturb false
+io.elementary.notifications.applications ask true
+io.elementary.notifications.applications bubbles true
+io.elementary.notifications.applications remember true
+io.elementary.notifications.applications sounds true
+io.elementary.onboarding viewed ['welcome', 'style', 'night-light', 'housekeeping', 'onlineaccounts', 'appcenter', 'updates', 'finish']
+io.elementary.photos.crop-settings last-crop-height 1
+io.elementary.photos.crop-settings last-crop-menu-choice 1
+io.elementary.photos.crop-settings last-crop-width 1
+io.elementary.photos.plugins.enable-state dataimports-fspot true
+io.elementary.photos.plugins.enable-state publishing-tumblr false
+io.elementary.photos.plugins.enable-state publishing-yandex-fotki false
+io.elementary.photos.plugins.enable-state transitions-blinds true
+io.elementary.photos.plugins.enable-state transitions-chess true
+io.elementary.photos.plugins.enable-state transitions-circle true
+io.elementary.photos.plugins.enable-state transitions-circles true
+io.elementary.photos.plugins.enable-state transitions-clock true
+io.elementary.photos.plugins.enable-state transitions-crumble true
+io.elementary.photos.plugins.enable-state transitions-fade true
+io.elementary.photos.plugins.enable-state transitions-slide true
+io.elementary.photos.plugins.enable-state transitions-squares true
+io.elementary.photos.plugins.enable-state transitions-stripes true
+io.elementary.photos.preferences.files auto-import true
+io.elementary.photos.preferences.files commit-metadata false
+io.elementary.photos.preferences.files import-dir ''
+io.elementary.photos.preferences.files raw-developer-default 'CAMERA'
+io.elementary.photos.preferences.files use-lowercase-filenames false
+io.elementary.photos.preferences.slideshow delay 3.0
+io.elementary.photos.preferences.slideshow show-title false
+io.elementary.photos.preferences.slideshow transition-effect-id ''
+io.elementary.photos.preferences.ui display-event-comments false
+io.elementary.photos.preferences.ui display-metadata-sidebar true
+io.elementary.photos.preferences.ui display-photo-comments false
+io.elementary.photos.preferences.ui display-photo-tags true
+io.elementary.photos.preferences.ui display-photo-titles false
+io.elementary.photos.preferences.ui display-sidebar true
+io.elementary.photos.preferences.ui event-photos-sort-ascending true
+io.elementary.photos.preferences.ui event-photos-sort-by 2
+io.elementary.photos.preferences.ui events-sort-ascending false
+io.elementary.photos.preferences.ui hide-photos-already-imported false
+io.elementary.photos.preferences.ui keep-relativity true
+io.elementary.photos.preferences.ui library-photos-sort-ascending false
+io.elementary.photos.preferences.ui library-photos-sort-by 2
+io.elementary.photos.preferences.ui metadata-sidebar-position -1
+io.elementary.photos.preferences.ui modify-originals false
+io.elementary.photos.preferences.ui photo-thumbnail-scale 256
+io.elementary.photos.preferences.ui sidebar-position 180
+io.elementary.photos.preferences.ui use-24-hour-time false
+io.elementary.photos.preferences.window direct-height 680
+io.elementary.photos.preferences.window direct-maximize false
+io.elementary.photos.preferences.window direct-width 1000
+io.elementary.photos.preferences.window library-height 680
+io.elementary.photos.preferences.window library-maximize false
+io.elementary.photos.preferences.window library-width 1000
+io.elementary.photos.printing content-height 5.0
+io.elementary.photos.printing content-layout 3
+io.elementary.photos.printing content-ppi 600
+io.elementary.photos.printing content-units 1
+io.elementary.photos.printing content-width 7.0
+io.elementary.photos.printing images-per-page 1
+io.elementary.photos.printing match-aspect-ratio true
+io.elementary.photos.printing print-titles false
+io.elementary.photos.printing size-selection 3
+io.elementary.photos.printing titles-font 'Sans Bold 12'
+io.elementary.photos.video interpreter-state-cookie -1
+io.elementary.settings sidebar-position -1
+io.elementary.settings window-height 520
+io.elementary.settings window-maximized false
+io.elementary.settings window-width 830
+io.elementary.settings-daemon.datetime show-weeks false
+io.elementary.settings-daemon.datetime week-start-day-name 'sunday'
+io.elementary.settings-daemon.housekeeping cleanup-downloads-folder false
+io.elementary.settings-daemon.housekeeping cleanup-screenshots-folder false
+io.elementary.settings-daemon.housekeeping cleanup-temp-folder false
+io.elementary.settings-daemon.housekeeping cleanup-trash-folder false
+io.elementary.settings-daemon.housekeeping old-files-age 30
+io.elementary.settings-daemon.power profile-on-good-battery 'balanced'
+io.elementary.settings-daemon.power profile-plugged-in 'balanced'
+io.elementary.settings-daemon.prefers-color-scheme last-coordinates (91.0, 181.0)
+io.elementary.settings-daemon.prefers-color-scheme prefer-dark-schedule 'disabled'
+io.elementary.settings-daemon.prefers-color-scheme prefer-dark-schedule-from 20.0
+io.elementary.settings-daemon.prefers-color-scheme prefer-dark-schedule-to 6.0
+io.elementary.settings-daemon.system-update automatic-updates false
+io.elementary.settings-daemon.system-update last-refresh-time int64 1738572384
+io.elementary.settings-daemon.system-update refresh-interval int64 86400
+io.elementary.settings.keyboard first-launch true
+io.elementary.settings.locale input-selections @a(ss) []
+io.elementary.settings.security-privacy disabled-firewall-rules @a(ssssiiii) []
+io.elementary.sideload trash-on-success false
+io.elementary.switchboard.sound show-unknown-apps false
+io.elementary.tasks pane-position 256
+io.elementary.tasks selected-list ''
+io.elementary.tasks show-completed false
+io.elementary.tasks window-maximized false
+io.elementary.tasks window-size (1000, 800)
+io.elementary.terminal.saved-state focused-tab 2
+io.elementary.terminal.saved-state tab-zooms ['1', '1', '1']
+io.elementary.terminal.saved-state tabs []
+io.elementary.terminal.saved-state window-size (841, 519)
+io.elementary.terminal.saved-state window-state 'Normal'
+io.elementary.terminal.saved-state zoom 1.0
+io.elementary.terminal.settings allow-bold true
+io.elementary.terminal.settings alt-changes-tab true
+io.elementary.terminal.settings audible-bell false
+io.elementary.terminal.settings background '#002B36'
+io.elementary.terminal.settings cursor-color '#839496'
+io.elementary.terminal.settings cursor-shape 'Block'
+io.elementary.terminal.settings encoding ''
+io.elementary.terminal.settings follow-last-tab false
+io.elementary.terminal.settings follow-system-style false
+io.elementary.terminal.settings font ''
+io.elementary.terminal.settings foreground '#93A1A1'
+io.elementary.terminal.settings natural-copy-paste true
+io.elementary.terminal.settings palette '#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#dc322f:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3'
+io.elementary.terminal.settings prefer-dark-style true
+io.elementary.terminal.settings remember-tabs true
+io.elementary.terminal.settings save-exited-tabs true
+io.elementary.terminal.settings scrollback-lines -1
+io.elementary.terminal.settings shell ''
+io.elementary.terminal.settings tab-bar-behavior 'Always Show Tabs'
+io.elementary.terminal.settings theme 'dark'
+io.elementary.terminal.settings unsafe-paste-alert true
+io.elementary.wingpanel.keyboard always-show-layout false
+io.elementary.wingpanel.keyboard capslock false
+io.elementary.wingpanel.keyboard numlock false
+io.elementary.wingpanel.notifications headers @a{sb} {}
+org.gnome.desktop.interface gtk-theme 'io.elementary.stylesheet.blueberry'

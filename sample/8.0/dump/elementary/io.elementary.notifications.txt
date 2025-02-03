@@ -1,0 +1,5 @@
+io.elementary.notifications do-not-disturb false
+io.elementary.notifications.applications ask true
+io.elementary.notifications.applications bubbles true
+io.elementary.notifications.applications remember true
+io.elementary.notifications.applications sounds true

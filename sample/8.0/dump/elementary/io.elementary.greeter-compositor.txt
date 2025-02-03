@@ -1,0 +1,2 @@
+io.elementary.greeter-compositor.keybindings zoom-in ['<Super>plus', '<Super>KP_Add']
+io.elementary.greeter-compositor.keybindings zoom-out ['<Super>minus', '<Super>KP_Subtract']

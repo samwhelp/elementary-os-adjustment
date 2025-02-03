@@ -1,0 +1,8 @@
+io.elementary.dock launchers ['gala-multitaskingview.desktop', 'io.elementary.files.desktop', 'org.gnome.Epiphany.desktop', 'io.elementary.mail.desktop', 'io.elementary.tasks.desktop', 'io.elementary.calendar.desktop', 'io.elementary.music.desktop', 'io.elementary.videos.desktop', 'io.elementary.photos.desktop', 'io.elementary.settings.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']
+io.elementary.mail always-load-remote-images true
+io.elementary.mail paned-end-position 400
+io.elementary.mail paned-start-position 190
+io.elementary.mail remote-images-whitelist @as []
+io.elementary.mail selected-folder ('', '')
+io.elementary.mail window-maximized false
+io.elementary.mail window-size (1024, 750)

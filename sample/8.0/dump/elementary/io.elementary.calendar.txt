@@ -1,0 +1,8 @@
+io.elementary.calendar.savedstate hpaned-position 650
+io.elementary.calendar.savedstate month-page ''
+io.elementary.calendar.savedstate selected-day ''
+io.elementary.calendar.savedstate show-weeks true
+io.elementary.calendar.savedstate window-maximized false
+io.elementary.calendar.savedstate window-size (1024, 750)
+io.elementary.calendar.settings plugins-disabled @as []
+io.elementary.dock launchers ['gala-multitaskingview.desktop', 'io.elementary.files.desktop', 'org.gnome.Epiphany.desktop', 'io.elementary.mail.desktop', 'io.elementary.tasks.desktop', 'io.elementary.calendar.desktop', 'io.elementary.music.desktop', 'io.elementary.videos.desktop', 'io.elementary.photos.desktop', 'io.elementary.settings.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']

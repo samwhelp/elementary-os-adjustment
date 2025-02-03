@@ -1,0 +1,61 @@
+[desktop/ibus/general]
+preload-engines=@as []
+version='1.5.29'
+
+[io/elementary/desktop/wingpanel/sound]
+preferred-devices={'alsa_card.pci-0000_00_1b.0:analog-output-speaker': 1738572364, 'alsa_card.pci-0000_00_1b.0:analog-input-internal-mic': 1738572364}
+
+[io/elementary/dock]
+launchers=['gala-multitaskingview.desktop', 'io.elementary.files.desktop', 'org.gnome.Epiphany.desktop', 'io.elementary.mail.desktop', 'io.elementary.tasks.desktop', 'io.elementary.calendar.desktop', 'io.elementary.music.desktop', 'io.elementary.videos.desktop', 'io.elementary.photos.desktop', 'io.elementary.settings.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']
+
+[io/elementary/files/icon-view]
+zoom-level='large'
+
+[io/elementary/files/preferences]
+active-tab-position=2
+default-viewmode='icon'
+tab-info-list=[]
+
+[io/elementary/onboarding]
+viewed=['welcome', 'style', 'night-light', 'housekeeping', 'onlineaccounts', 'appcenter', 'updates', 'finish']
+
+[io/elementary/photos/preferences/ui]
+display-metadata-sidebar=true
+display-sidebar=true
+events-sort-ascending=false
+photo-thumbnail-scale=256
+
+[io/elementary/photos/preferences/window]
+library-height=680
+library-maximize=false
+library-width=1000
+
+[io/elementary/settings-daemon/system-update]
+last-refresh-time=int64 1738572384
+
+[io/elementary/terminal/saved-state]
+focused-tab=2
+tab-zooms=['1', '1', '1']
+tabs=[]
+window-size=(841, 519)
+window-state='Normal'
+zoom=1.0
+
+[io/elementary/terminal/settings]
+prefer-dark-style=true
+theme='dark'
+
+[org/gnome/desktop/input-sources]
+current=uint32 0
+sources=[('xkb', 'us')]
+
+[org/gnome/desktop/wm/keybindings]
+minimize=@as []
+toggle-maximized=@as []
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/mutter/keybindings]
+toggle-tiled-left=@as []
+toggle-tiled-right=@as []

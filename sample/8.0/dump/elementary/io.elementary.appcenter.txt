@@ -1,0 +1,8 @@
+io.elementary.appcenter.settings automatic-updates true
+io.elementary.appcenter.settings developer-mode false
+io.elementary.appcenter.settings last-refresh-time int64 0
+io.elementary.appcenter.settings paid-apps @as []
+io.elementary.appcenter.settings window-height 660
+io.elementary.appcenter.settings window-maximized false
+io.elementary.appcenter.settings window-width 1024
+io.elementary.dock launchers ['gala-multitaskingview.desktop', 'io.elementary.files.desktop', 'org.gnome.Epiphany.desktop', 'io.elementary.mail.desktop', 'io.elementary.tasks.desktop', 'io.elementary.calendar.desktop', 'io.elementary.music.desktop', 'io.elementary.videos.desktop', 'io.elementary.photos.desktop', 'io.elementary.settings.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']
