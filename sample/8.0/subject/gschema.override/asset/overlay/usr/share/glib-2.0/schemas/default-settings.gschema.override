@@ -1,0 +1,150 @@
+[org.freedesktop.ibus.general.hotkey:Pantheon]
+triggers=['<Control>space']
+
+[org.freedesktop.ibus.panel:Pantheon]
+show=1
+
+[org.gnome.desktop.background:Pantheon]
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/elementaryos-default'
+picture-uri-dark='file://'
+primary-color='#000000'
+
+[org.gnome.desktop.datetime:Pantheon]
+automatic-timezone=true
+
+[org.gnome.desktop.input-sources:Pantheon]
+xkb-options=['grp:alt_shift_toggle']
+
+[org.gnome.desktop.interface:Pantheon]
+cursor-theme='elementary'
+document-font-name='Open Sans 10'
+font-antialiasing='grayscale'
+font-hinting='slight'
+font-name='Inter 9'
+gtk-theme='io.elementary.stylesheet.blueberry'
+icon-theme='elementary'
+monospace-font-name='Roboto Mono 10'
+
+[org.gnome.desktop.peripherals.touchpad:Pantheon]
+natural-scroll=true
+tap-to-click=true
+
+[org.gnome.desktop.session:Pantheon]
+idle-delay=900
+
+[org.gnome.desktop.sound:Pantheon]
+theme-name='elementary'
+
+[org.gnome.desktop.wm.keybindings:Pantheon]
+# defaults to <Super>Up, replaced by toggle below, so we need to clear it here
+maximize=[]
+move-to-workspace-1=['<Super><Alt>1']
+move-to-workspace-2=['<Super><Alt>2']
+move-to-workspace-3=['<Super><Alt>3']
+move-to-workspace-4=['<Super><Alt>4']
+move-to-workspace-5=['<Super><Alt>5']
+move-to-workspace-6=['<Super><Alt>6']
+move-to-workspace-7=['<Super><Alt>7']
+move-to-workspace-8=['<Super><Alt>8']
+move-to-workspace-9=['<Super><Alt>9']
+move-to-workspace-left=['<Super><Alt>Left']
+move-to-workspace-right=['<Super><Alt>Right']
+panel-run-dialog=[]
+# Gala shows workspaces overview instead of desktop
+show-desktop=['<Super>Down','<Super>s']
+switch-applications=[]
+switch-applications-backward=[]
+# FIXME: Remove after https://github.com/elementary/granite/issues/648 is fixed
+switch-group=['<Super>grave']
+switch-group-backward=['<Shift><Super>grave']
+# See lp:1291788 for details about switch-input-source*
+switch-input-source=[]
+switch-input-source-backward=[]
+switch-to-workspace-left=['<Super>Left']
+switch-to-workspace-right=['<Super>Right']
+switch-to-workspace-up=[]
+switch-to-workspace-down=[]
+switch-to-workspace-1=['<Super><Shift>1']
+switch-to-workspace-2=['<Super><Shift>2']
+switch-to-workspace-3=['<Super><Shift>3']
+switch-to-workspace-4=['<Super><Shift>4']
+switch-to-workspace-5=['<Super><Shift>5']
+switch-to-workspace-6=['<Super><Shift>6']
+switch-to-workspace-7=['<Super><Shift>7']
+switch-to-workspace-8=['<Super><Shift>8']
+switch-to-workspace-9=['<Super><Shift>9']
+switch-windows=['<Alt>Tab']
+switch-windows-backward=['<Alt><Shift>Tab']
+toggle-maximized=['<Super>Up']
+# defaults to <Super>Down used above, so we need to override it
+unmaximize=['<Alt>F5']
+
+[org.gnome.desktop.wm.preferences:Pantheon]
+button-layout='close:maximize'
+mouse-button-modifier='<Super>'
+resize-with-right-button=true
+
+[org.gnome.mutter:Pantheon]
+auto-maximize=false
+overlay-key='Super_L'
+center-new-windows=true
+workspaces-only-on-primary=true
+
+[org.gnome.mutter.keybindings:Pantheon]
+toggle-tiled-left=['<Control><Super>Left']
+toggle-tiled-right=['<Control><Super>Right']
+
+[org.gnome.nm-applet:Pantheon]
+disable-connected-notifications=true
+disable-disconnected-notifications=true
+show-applet=false
+
+[org.gnome.settings-daemon.plugins.color:Pantheon]
+night-light-temperature=4500
+
+[org.gnome.settings-daemon.plugins.media-keys:Pantheon]
+terminal=['<Super>t']
+# see https://github.com/elementary/switchboard-plug-keyboard/issues/376#issuecomment-899068830
+email=['XF86Mail']
+email-static=[]  
+home=['XF86Explorer']
+home-static=[]
+media=['XF86AudioMedia']
+media-static=[]
+www=['XF86WWW']
+www-static=[]
+volume-up-static=[]
+volume-down-static=[]
+volume-mute-static=[]
+play=['XF86AudioPlay', '<Ctrl>XF86AudioPlay']
+play-static=[]
+pause=['XF86AudioPause']
+pause-static=[]
+stop=['XF86AudioStop']
+stop-static=[]
+previous=['XF86AudioPrev', '<Ctrl>XF86AudioPrev']
+previous-static=[]
+next=['XF86AudioNext', '<Ctrl>XF86AudioNext']
+next-static=[]
+eject=['XF86Eject']
+eject-static=[]
+
+[org.gnome.settings-daemon.plugins.power:Pantheon]
+idle-dim=false
+
+[org.gnome.settings-daemon.plugins.xsettings:Pantheon]
+overrides={'Gtk/DialogsUseHeader': <0>, 'Gtk/EnablePrimaryPaste': <0>, 'Gtk/ShellShowsAppMenu': <0>, 'Gtk/DecorationLayout': <'close:menu,maximize'>,'Gtk/ShowUnicodeMenu': <0>}
+
+[org.gnome.system.location:Pantheon]
+enabled=true
+
+[org.gtk.Settings.FileChooser:Pantheon]
+sort-directories-first=true
+
+[org.onboard:Pantheon]
+theme='/usr/share/onboard/themes/Nightshade.theme'
+
+[io.elementary.desktop.wm.behavior:Pantheon]
+overlay-action='io.elementary.wingpanel --toggle-indicator=app-launcher'
+panel-main-menu-action='io.elementary.wingpanel --toggle-indicator=app-launcher'
