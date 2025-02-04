@@ -16,6 +16,17 @@
 
 
 
+## Adjustment
+
+| Adjustment |
+| ---------- |
+| [Pantheon Config](https://github.com/samwhelp/elementary-os-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/elementary-os-adjustment/tree/main/prototype/main/tool-config/part) |
+| [pantheon-adjustment](https://github.com/samwhelp/note-about-elementary-os/tree/gh-pages/_demo/scripts/pantheon-adjustment) |
+
+
+
+
 ## Link
 
 | Link | GitHub |
