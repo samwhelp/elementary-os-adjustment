@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/note-about-elementary-os/blob/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh
-## * https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh
+## * https://github.com/samwhelp/note-about-elementary-os/blob/elementary-os-adjustment/pantheon-adjustment/pantheon-adjustment.sh
+## * https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/elementary-os-adjustment/pantheon-adjustment/pantheon-adjustment.sh
 ##
 
 

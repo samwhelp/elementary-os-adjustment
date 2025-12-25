@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/note-about-elementary-os/blob/gh-pages/_demo/scripts/pantheon-keybind/pantheon-keybind.sh
-## * https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-keybind/pantheon-keybind.sh
+## * https://github.com/samwhelp/elementary-os-adjustment/blob/main/demo/scripts/pantheon-keybind/pantheon-keybind.sh
+## * https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-keybind/pantheon-keybind.sh
 ##
 
 

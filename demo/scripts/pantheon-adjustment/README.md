@@ -7,8 +7,8 @@
 
 ## Link
 
-* https://github.com/samwhelp/note-about-elementary-os/blob/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh
-* https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh
+* https://github.com/samwhelp/elementary-os-adjustment/blob/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh
+* https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh
 
 
 
@@ -18,26 +18,26 @@
 > run
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh)
 ```
 
 
 > or run
 
 ``` sh
-bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh -O - )
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh -O - )
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh -O - )"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh -O - )"
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-elementary-os/refs/heads/gh-pages/_demo/scripts/pantheon-adjustment/pantheon-adjustment.sh)"
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/elementary-os-adjustment/refs/heads/main/demo/scripts/pantheon-adjustment/pantheon-adjustment.sh)"
 ```
